@@ -1,3 +1,4 @@
+//i am makig this code as a version v2 for git testing
 #include <Wire.h>                              //// WORKING
 #include <Adafruit_MLX90614.h>
 
