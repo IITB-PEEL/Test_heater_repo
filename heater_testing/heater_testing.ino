@@ -1,5 +1,6 @@
-//i am makig this code as a version v5 for git testing
+//i am makig this code as a version v6 for git testing
 // now i am testing this code in public with om making vesrion V5
+// its verson V6 gor showing om
 #include <Wire.h>                              //// WORKING
 #include <Adafruit_MLX90614.h>
 
