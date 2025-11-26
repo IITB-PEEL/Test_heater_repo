@@ -41,7 +41,9 @@ void one_step() {
   hist_temp = present_temp;
 
   if ((set_temp - diff_temp) > present_temp) {//here it was ">=" i rmoved "="
-    hist_pwm_dc = 100.0;
+    // hist_pwm_dc = 100.0;
+    //insted of this i have writw here a big algo for low speed update purpose.
+    //i am commneting the abouve line.
   }
   else if(present_temp >= set_temp)
   {
